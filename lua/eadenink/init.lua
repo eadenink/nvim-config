@@ -1,1 +1,1 @@
-print("Hello from eadenink")
+require("eadenink.remap")

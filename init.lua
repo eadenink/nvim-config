@@ -1,2 +1,2 @@
+require("pacmans.lazy")
 require("eadenink")
-print("Hello")

@@ -12,10 +12,12 @@ vim.opt.undofile = true
 
 vim.opt.hlsearch = false
 vim.opt.incsearch = true
+vim.opt.smartsearch = true
 
 vim.opt.termguicolors = true
+vim.o.cursorline = true
 
-vim.opt.scrolloff = 8
+vim.opt.scrolloff = 16
 vim.opt.signcolumn = "yes"
 vim.opt.isfname:append("@-@")
 

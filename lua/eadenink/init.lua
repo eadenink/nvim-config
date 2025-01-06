@@ -1,3 +1,3 @@
 require("eadenink.remap")
-require("eadenink.set")
+require("eadenink.opts")
 require("eadenink.lsp")

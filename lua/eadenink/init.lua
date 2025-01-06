@@ -1,2 +1,3 @@
 require("eadenink.remap")
-require("eadenink.opts")
+require("eadenink.options")
+

@@ -11,7 +11,14 @@ return {
 			require("mason-lspconfig").setup({
 				ensure_installed = {
 					"lua_ls",
-					"ts_ls"
+					"clangd",
+					"ts_ls",
+					"pyright",
+					"gopls",
+					"graphql",
+					"jsonls",
+					"prismals",
+					"zls"
 				}
 			})
 		end

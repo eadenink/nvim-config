@@ -24,7 +24,6 @@ opt.undofile = true
 -- Search
 opt.hlsearch = false
 opt.incsearch = true
-opt.ingorecase = true
 opt.smartcase = true
 
 -- Better colors and cursor line highlighting
